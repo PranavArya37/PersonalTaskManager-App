@@ -5,8 +5,7 @@ A simple yet feature-rich Personal Task Manager application built using React Na
 ## Table of Contents
 
 - [Features](#features)
-- [File and Folder Structure](#file-and-folder-structure)
-- [Screenshots](#Screeshots)
+- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
@@ -32,53 +31,6 @@ A simple yet feature-rich Personal Task Manager application built using React Na
   - View user profile and account information.
   - Sign out from the application.
   - Delete account permanently.
-
-## File and Folder Structure
-
-**PersonalTaskManager**
-├─ **.expo**
-│&nbsp;&nbsp;&nbsp;├─ devices.json
-│&nbsp;&nbsp;&nbsp;└─ README.md
-├─ app.json
-├─ App.tsx
-├─ **assets**
-│&nbsp;&nbsp;&nbsp;├─ confetti.json
-│&nbsp;&nbsp;&nbsp;└─ **images**
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ adaptive-icon.png
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ favicon.png
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ icon.png
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ main-logo.png
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ splash.png
-├─ babel.config.js
-├─ package-lock.json
-├─ package.json
-├─ README.md
-├─ **src**
-│&nbsp;&nbsp;&nbsp;├─ **components**
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├─ TaskForm.tsx
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├─ TaskItem.tsx
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└─ TaskList.tsx
-│&nbsp;&nbsp;&nbsp;├─ **contexts**
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├─ AuthContext.tsx
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└─ TaskContext.tsx
-│&nbsp;&nbsp;&nbsp;├─ **screens**
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├─ AllTasksScreen.tsx
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├─ CompletedTasksScreen.tsx
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├─ CreateTaskScreen.tsx
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├─ DashboardScreen.tsx
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├─ LoginScreen.tsx
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├─ PendingTasksScreen.tsx
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;├─ RegisterScreen.tsx
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└─ SettingsScreen.tsx
-│&nbsp;&nbsp;&nbsp;├─ **types**
-│&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└─ index.ts
-│&nbsp;&nbsp;&nbsp;└─ **utils**
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ notifications.ts
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ storage.ts
-├─ tsconfig.json
-└─ **&#95;&#95;type&#95;&#95;**
- &nbsp;&nbsp;&nbsp;&nbsp;└─ **components**
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ TaskItem.test.tsx
 
 ## Screenshots
 
