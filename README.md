@@ -34,9 +34,20 @@ A simple yet feature-rich Personal Task Manager application built using React Na
 
 ## Screenshots
 
-<img src="" width="200" />
-<img src="" width="200" />
-<img src="" width="200" />
+<table>
+  <tr>
+    <td><img src="assets/screenshots/LoginScreen.PNG" width="200" /></td>
+    <td><img src="assets/screenshots/SignupScreen.PNG" width="200" /></td>
+    <td><img src="assets/screenshots/CreateTasksScreen.PNG" width="200" /></td>
+    <td><img src="assets/screenshots/EditTaskScreen.PNG" width="200" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/AllTasksScreen.PNG" width="200" /></td>
+    <td><img src="assets/screenshots/DueFiltersScreen.PNG" width="200" /></td>
+    <td><img src="assets/screenshots/PendingTasksScreen.PNG" width="200" /></td>
+    <td><img src="assets/screenshots/CompletedTasksScreen.PNG" width="200" /></td>
+  </tr>
+</table>
 
 ## Installation
 
