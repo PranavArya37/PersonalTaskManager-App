@@ -37,7 +37,8 @@
     "react-native-ui-lib": "^7.27.0",
     "typescript": "~5.3.3",
     "expo-device": "~6.0.2",
-    "expo-constants": "~16.0.2"
+    "expo-constants": "~16.0.2",
+    "expo-updates": "~0.25.21"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

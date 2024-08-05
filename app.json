@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "PersonalTaskManager",
+    "name": "Personal Task Manager",
     "slug": "PersonalTaskManager",
+    "privacy": "public",
+    "description": "A simple yet feature-rich Personal Task Manager application built using React Native with Expo. Manage your daily tasks, track progress, and stay organized effortlessly.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -22,6 +24,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "57383079-ccbd-40cf-a03f-d0943ef87e21"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/57383079-ccbd-40cf-a03f-d0943ef87e21"
     }
   }
 }
