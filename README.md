@@ -7,6 +7,7 @@ A simple yet feature-rich Personal Task Manager application built using React Na
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
+- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 
